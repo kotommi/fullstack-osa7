@@ -1,0 +1,10 @@
+POST http://localhost:3003/api/blogs
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InRlc3RpIiwiaWQiOiI1YzZiMWViMzZjMDg2YzA3ZTUyYmFkZmYiLCJpYXQiOjE1NTA1MjYzNDB9.x1hM2HHtSabGtplMRJxlp2Omd7o3mMsi8aVDHmkouBI
+
+{
+    "title": "pricklish blog",
+    "author": "Not satan",
+    "url": "www.he.ll",
+    "likes": "9991"
+}
